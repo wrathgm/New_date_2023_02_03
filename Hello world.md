@@ -7,3 +7,5 @@
 
 
 новый текст
+
+commit from local repositiry
